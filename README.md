@@ -6,9 +6,6 @@
 Email Providers:
 Mailgun - Simple Send Documentation
 SendGrid - Simple Send Documentation
-Above services are free to try. You may choose alternative email providers that have API
-integration. Your solution should cater for multiple email recipients, CCs and BCCs but there
-is no need to support HTML email body types (plain text is OK)
 
 
 
